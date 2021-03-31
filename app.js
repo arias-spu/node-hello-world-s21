@@ -14,5 +14,5 @@ server.listen(port, (err) => {
 		return console.log('Something is wrong shut the lights');
 	}
 	console.log(`Server Listening on : ${port}`);
-}
+})
 
